@@ -234,7 +234,7 @@
         // The URL you are using to load your model is:
         // http://localhost:8000/model.json
         doodleModel = await tf.loadLayersModel(
-          "http://localhost:8000/model.json",
+          "https://raw.githubusercontent.com/TheShovel/doodle-recognition/refs/heads/main/model.json",
         );
         console.log("Custom Doodle Classifier model loaded successfully.");
       } catch (error) {
