@@ -5,7 +5,7 @@ A PenguinMod extension for doodle recognition, trained on [Google's Quick Draw d
 
 Made in 2 days for fun :)
 
-Available at: [penguinmod extension gallery currently down sorry :(]
+Available at: https://studio.penguinmod.com/editor.html?extension=https://extensions.penguinmod.com/extensions/TheShovel/doodlerec.js
 
 https://github.com/user-attachments/assets/d6f16e68-064a-44d1-9d85-6a539b986789
 
